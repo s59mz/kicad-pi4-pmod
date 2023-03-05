@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J4";"PinSocket_2x06_P2.54mm_Horizontal";1;"pmod 1";;;
+2;"J5";"PinSocket_2x06_P2.54mm_Horizontal";1;"pmod 2";;;
+3;"J1";"PinHeader_2x20_P2.54mm_Vertical";1;"Pi-4 IO Extension";;;
+4;"D2";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"green";;;
+5;"J6";"PinSocket_2x09_P2.54mm_Horizontal";1;"camera";;;
+6;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"5V";;;
+7;"H1,H2,H3,H4";"MountingHole_2.5mm";4;"2.5";;;
+8;"D1";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"red";;;
+9;"J3";"PinHeader_1x03_P2.54mm_Vertical";1;"uart";;;
+10;"R1";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"470E";;;
+11;"C1,C2";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"100n";;;
+12;"R2";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"330E";;;
