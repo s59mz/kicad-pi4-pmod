@@ -1,13 +1,13 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"J4";"PinSocket_2x06_P2.54mm_Horizontal";1;"pmod 1";;;
-2;"J5";"PinSocket_2x06_P2.54mm_Horizontal";1;"pmod 2";;;
-3;"J1";"PinHeader_2x20_P2.54mm_Vertical";1;"Pi-4 IO Extension";;;
-4;"D2";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"green";;;
-5;"J6";"PinSocket_2x09_P2.54mm_Horizontal";1;"camera";;;
-6;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"5V";;;
-7;"H1,H2,H3,H4";"MountingHole_2.5mm";4;"2.5";;;
-8;"D1";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"red";;;
-9;"J3";"PinHeader_1x03_P2.54mm_Vertical";1;"uart";;;
-10;"R1";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"470E";;;
-11;"C1,C2";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"100n";;;
-12;"R2";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"330E";;;
+Comment,Designator,Footprint,LCSC
+"100n","C1,C2","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",""
+"red","D1","LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder",""
+"green","D2","LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder",""
+"2.5","H1,H2,H3,H4","MountingHole:MountingHole_2.5mm",""
+"Pi-4 IO Extension","J1","Library:PinHeader_2x20_P2.54mm_Vertical",""
+"5V","J2","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
+"uart","J3","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"pmod 1","J4","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal",""
+"pmod 2","J5","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal",""
+"camera","J6","Connector_PinSocket_2.54mm:PinSocket_2x09_P2.54mm_Horizontal",""
+"470E","R1","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",""
+"330E","R2","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",""
